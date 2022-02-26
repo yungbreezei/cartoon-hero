@@ -61,6 +61,14 @@ body{
   height: 53px;
   margin-top: 34px;
   width: 202px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 89px;
+  align-items: center;
+  text-align: center;
+  border: none;
 }
 
 .rectangle-16 {
@@ -70,6 +78,7 @@ body{
   margin-top: 112px;
   width: 538px;
 }
+
 
 footer{
   background-color: floralwhite;
